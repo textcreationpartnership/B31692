@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentation unto this nation and also a warning to all people of this present age and generation with the voice of thunder sounded forth from the throne of the Lord God : and this is more particularly a warning unto the inhabitants of England and is to go abroad thorow all parts of this nation.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31692</idno>
+            <idno type="STC">Wing W1751</idno>
+            <idno type="EEBO-CITATION">15080946</idno>
+            <idno type="OCLC">ocm 15080946</idno>
+            <idno type="VID">206164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31692)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206164)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1581:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentation unto this nation and also a warning to all people of this present age and generation with the voice of thunder sounded forth from the throne of the Lord God : and this is more particularly a warning unto the inhabitants of England and is to go abroad thorow all parts of this nation.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed: D.W.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206164:1"/>
+            <pb n="1" facs="tcp:206164:1"/>
+            <head>A LAMENTATION Unto this NATION; And alſo, A VVARNING To all PEOPLE of this preſent Age and Generation, With the Voyce of THUNDER, ſounded forth from the Throne of the <hi>Lord God.</hi> And this is more particu<g ref="char:EOLhyphen"/>larly, A WARNING unto the Inhabitants of <hi>ENGLAND:</hi> And is to go abroad thorow all parts of this <hi>Nation.</hi>
+            </head>
+            <p>THE <hi>Spirit of the Lord God is upon me,</hi> and by the overflowing ſtreams of the <hi>Spirit of Life,</hi> being filled therewith from the ful Fountain of the Lord God; I being moved by his Eternal Word of Life, to expoſtulate a little, and to impart a little of what God hath given and revealed, by his pure and Eternal Spirit: And this is to you all, who believe in the Lord God of Life and Power; This I ſay in Gods
+<pb n="2" facs="tcp:206164:2"/>Authority, and by the Revelation of the Word of Life; and this is in the Power of God ſeen, That a <hi>Day of Deliverance is at hand,</hi> the Lord God hath ſpo<g ref="char:EOLhyphen"/>ken it, and the hour cometh and ſhall be known, wher<g ref="char:EOLhyphen"/>in God will fulfill his Word; and this is the day of the Lord God, wherein he is working a mighty and won<g ref="char:EOLhyphen"/>derfull Work, yea, the Lord is working wonderful<g ref="char:EOLhyphen"/>ly for the deliverance of his own Seed; the Lord God is working of an <hi>Inviſible Work,</hi> he is kindling of a fire ſecretly, which muſt break forth upon his Ene<g ref="char:EOLhyphen"/>mies: and thus ſaith the Lord of Hoſts, the mighty God of <hi>Jacob, I will break the bonds of iniquity, I will reveal my Judgments upon the Ungodly, I will ſet the Oppreſſed free, That the Ranſomed of my People may re<g ref="char:EOLhyphen"/>turn again unto Sion with Songs of rejoycing:</hi> And this is the day of the Lord, wherein he is come to dwell in his People, and to eſtabliſh his Throne in the tops of the Mountains. And thus ſaith the Lord of Hoſts, <hi>I will aſcend far above the Clouds, and I will reign on the top of all;</hi> And this is the day wherein the Lord is making a Separation, and he is dividing the waters from the waters; and he is parting the Sea, that the Ranſomed Seed may paſſe thorow; as <hi>Moſes</hi> led <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> out of <hi>Egypt,</hi> even ſo is the Lord leading his People through the Tribulation unto the Day of Sal<g ref="char:EOLhyphen"/>vation, into the Mountain of Holineſs: and thus is the Lord bringing back the out-caſts of <hi>Iſrael,</hi> the Remnant of his People, his Choſen Generation; and this is the Day of Redemption, and this is the Day of Glad-tidings: <hi>And bleſſed are the Poor, for they ſhall receive the Goſpel of Peace,</hi> and to ſuch it is to be prea<g ref="char:EOLhyphen"/>ched: <hi>And bleſſed are they which mourn, for they ſhall
+<pb n="3" facs="tcp:206164:2"/>be comforted:</hi> And to you who are yet ungathered, the Lord is ſtretching forth the Arms of his Everlaſting Love, and he is drawing you with the Cords of his Love; and he is gathering in all that will come to the Fountain of Life, the Word of Eternal Life, the Word of Power, the Word of his Grace; and this hath ap<g ref="char:EOLhyphen"/>peared unto all, and by it all may come unto the full Fountain, which the Lord is ſetting open for <hi>Judah</hi> and for <hi>Jeruſalem,</hi> and for the Regions of the Nati<g ref="char:EOLhyphen"/>ons; the Lord God hath ſpoken out of <hi>Sion,</hi> the holy City, and his Word is gone forth of <hi>Jeruſalem,</hi> and the Trumpet of the Lord God is ſounded, and an Alarm is gone forth out of the Lords Holy Mountain, and he is gathering the Nations unto the brightneſs of his Ariſing, and the Day of the Lord is dawning clearer and clearer, and as the Morning-brightneſs, ſo is the Lord breaking-forth, and the Clouds fly be<g ref="char:EOLhyphen"/>fore him; And bleſſed are all they that are gathered unto him, ſuch ſhall have a ſure Hiding-place; when Tribulation ſhall come upon the World, then Glory and Peace ſhall be upon the Righteous, and all that fear the Lord ſhall dwell ſafely: The Fountain of Life God hath ſet open, the River that is ſo clear as Criſtal, the ſtreams thereof proceed out of the Throne of God: and to all that do believe, the Lord is giving abundantly; and in ſuch the Well of <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> is ſet open, which is ſpringing up unto Eternal Life.</p>
+            <p>There is no end of the Treaſures of God; What Tongue can declare what he is unto ſuch as fear him? The Bleſſed Day is come, the Revelation of Jeſus Chriſt, the Power of God, the Wiſdom of the Fa<g ref="char:EOLhyphen"/>ther is revealed, and the Lion of the Tribe of <hi>Judah</hi>
+               <pb n="4" facs="tcp:206164:3"/>hath prevailed to unlooſe the Seals, and to open the Book of Life, whereby the Myſteries of God's King<g ref="char:EOLhyphen"/>dom come to be opened; and it is through great Tri<g ref="char:EOLhyphen"/>bulation, that the waſhing of Regeneration is witneſ<g ref="char:EOLhyphen"/>ſed; and there is none can come to feed on the Tree of Life, but ſuch as know the Death upon the Croſs of our Lord Jeſus Chriſt, and all who come to enter into the Path of Holineſs, the Way to Everlaſting life, muſt firſt come to know the Dying, and the Crucify<g ref="char:EOLhyphen"/>ing, and the Purifying by the Spirit of Judgement, and by the Spirit of Burning; <hi>For behold, the day cometh that ſhall burn as an Oven, and all the Wicked ſhall be as Stubble;</hi> And the Day of Burning, God hath revealed by his own Son, for he ſitteth as Re<g ref="char:EOLhyphen"/>finers fire, and like Fullers ſope, purifying all that do believe, that they may come forth, as out of the fiery Furnace, purified like unto fine Gold, that hath been tryed ſeven times in the fire; for thorow the fire, and thorow the tribulation, all are to come, who come to Life; and ſuch as know the travel out of the Land of <hi>Egypt,</hi> ſuch ſhall ſee the glorious day of the Lord God, which ſhall appear unto the Followers of the Lamb thorow the Tribulation, ſuch as are waſhed white by the Bloud of Jeſus; and ſuch as endure the Day, ſhall ſee the glory thereof, as the glory of ſeven dayes; and as the breaking forth of the Sun after a dark cloudy Night, even ſo ſhal the <hi>Glorious Day</hi> of the Lord appear, unto the faithful Followers of the Lamb; and this is the <hi>great Day</hi> of the <hi>Lord God,</hi> in which he is appearing more in his Power, for the revealing his Will; and this is ſomewhat of what may be ſpoken and imparted with, according to the wiſdom of <hi>God;</hi>
+               <pb n="5" facs="tcp:206164:3"/>and this is to be publiſhed in the Authority of <hi>God.</hi>
+            </p>
+            <p>A <hi>GREAT</hi> and <hi>TERRIBLE DAY</hi> Ap<g ref="char:EOLhyphen"/>proacheth, and in the Eternal Authority of the <hi>Lord God,</hi> it doth lie upon me to ſound it forth, fore-ſee<g ref="char:EOLhyphen"/>ing in the Eternal Power of the Lord of Heaven and Earth, that the Approach of the <hi>Great</hi> and <hi>Terrible Day</hi> cometh, and that very ſwiftly.</p>
+            <p>Therefore, O <hi>Hear</hi> the Word of the Lord God, Oh you Inhabitants of this <hi>Nation,</hi> I warn you <hi>ſpeedily</hi> to <hi>Repent,</hi> in the Fear of the Lord God, I ſay <hi>Repent</hi> and be <hi>Awakened,</hi> and come forth and <hi>prepare</hi> to meet the Lord God of Power, who is coming to plead with you by the Sword of his Eternal Power. Therefore <hi>Awake, Ariſe up</hi> from the dead, and ſtand up to Judg<g ref="char:EOLhyphen"/>ment, for the <hi>Great and Terrible Day</hi> approacheth near you; Oh it is even coming upon you, the Lord God hath Revealed it by his own Son, whom he hath made Heir of all things; which Son is now broken forth in his clearneſs, as the Morning brightneſs, even as the dawning of the day, ſo is the riſing of the Son; and his beautiful Appearance is come, and the accep<g ref="char:EOLhyphen"/>table day of the Lord God is revealed, and the Son of his <hi>Love</hi> is made manifeſt; yea, the Day of <hi>Salvation</hi> is come unto <hi>Iſrael,</hi> and the Day of <hi>Reſtauration</hi> unto the Seed of <hi>Jacoh,</hi> &amp; a Day of <hi>Peace &amp; Glad-tidings,</hi> is pro<g ref="char:EOLhyphen"/>claiming unto the Captives, that the Seed of the Houſe of <hi>Jacob</hi> may come forth; for the Lord God is ſetting open of the Priſon Doors, and is leading <hi>Captivity Cap<g ref="char:EOLhyphen"/>tive,</hi> and is bringing into Captivity that which hath been exalted, and is throwing down the Mountains, and is making his path ſtreight; and this path is a path of Holineſs, and the upright in heart walk in it.</p>
+            <pb n="6" facs="tcp:206164:4"/>
+            <p>For verily there is not another way; And all who are out of this way, haſten with ſpeed, turn in again, and come to know the Fathers Houſe, where the Bread is given plentifully, where the full Fountain is ſet open both day and night; where the ſtreams run continually, where the ſprings run freely; yea, the Lord God is opening the Everlaſting Fountain, that hath been ſealed from Ages and Generations; the Lord God is opening of his Treaſure-Houſe; <hi>The Earth is filled with the goodneſs of the Lord, and the glory of the Lord covereth the Earth, even as the waters cover the Sea;</hi> For the Lord God is turning again the Captivi<g ref="char:EOLhyphen"/>ty of his People, and he hath raiſed up a Horn of Salvation, a righteous branch in the Houſe of <hi>David,</hi> for Salvation unto the Nations; and this is the Day of the Lord God, wherein he hath ſounded forth <hi>an A<g ref="char:EOLhyphen"/>larm out of his holy Mount,</hi> with a Voyce of <hi>Trembling unto the Nations,</hi> and with a Word of <hi>Conſolation unto all that do Believe;</hi> and he ſpeaketh <hi>Peace unto the Righ<g ref="char:EOLhyphen"/>teous,</hi> and <hi>Joy to the upright in heart;</hi> and all that <hi>fear</hi> the Lord <hi>Mercy</hi> compaſſeth them about, and the <hi>Walls of Salvation</hi> with a mighty Arm from the Lord God, doth <hi>encompaſſe</hi> them on every ſide: Therefore let the Heavens rejoyce, and let the Earth be glad.</p>
+            <p>For the Lord God is coming to make an <hi>Everlaſt<g ref="char:EOLhyphen"/>ing Habitation,</hi> a glorious <hi>dwelling place in all who do Believe;</hi> and the ſound of <hi>Seven Trumpets</hi> have uttered forth their Voyces, and the <hi>ſhout</hi> of a <hi>mighty King</hi> is gone forth out of his holy Mount: Therefore thus ſaith the Lord God, <hi>I will appear for the Deliverance of my People; I will Ariſe ſaith the Lord God, I will roar as a Lyon bereaved of her young; I will ſcatter the Nati<g ref="char:EOLhyphen"/>ons,
+<pb n="7" facs="tcp:206164:4"/>and let the World know, that God of a truth is riſen;</hi> and bleſſed are all they who believe and abide the day that approacheth, where in the faith of Gods Elect muſt be tryed <hi>as the Silver,</hi> and purified like unto <hi>fine Gold;</hi> for the time of waſhing is come by the blood of Jeſus, that hath been ſhed ſince the foundation of the World; and the Lord God is come to make an inqui<g ref="char:EOLhyphen"/>ry after the loſt Sheep of the Houſe of <hi>Iſrael,</hi> who have been ſcattered in the cloudy and dark Day, who have been driven far away; the Lord God is bringing ma<g ref="char:EOLhyphen"/>ny near unto himſelf, even into his own Fould, and he is ſetting one Shepherd over them; and he is come to feed his Sheep himſelf, and to give abundantly of the Everlaſting Bread of Life; and he is come to give the thirſty <hi>drink,</hi> and bleſſed are all they <hi>that thirſt and hunger after Righteouſneſs;</hi> the Lord God will fill the hearts of ſuch, and he will be a Well of water ſpringing up unto Eternal Life; and a full Fountain ſhall run freely through them that do believe, even as the ſtreams of <hi>Shiloes</hi> Brook runneth clear as Criſtal; ſo that the Heavens ſhall rejoyce, and the Earth ſhall be glad, becauſe of the Encreaſes of God, for he will bleſs it with the Encreaſe, even plentifulneſs ſhall be in his Houſe, and fulneſs within his walls, and the glo<g ref="char:EOLhyphen"/>ry of the Lord ſhall dwell there, and he ſhall become the glory of many Nations; for his habitation is a ha<g ref="char:EOLhyphen"/>bitation of Holineſs, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where God dwelleth, no <hi>un<g ref="char:EOLhyphen"/>clean</hi> thing can dwell; Therefore his Mountoin ſhall be called the <hi>Mountain of Holineſs,</hi> the <hi>Habitation of the moſt High,</hi> the Scituation of the Lord God, the faithful dwell there, and they know the habitation where God dwelleth; and ſuch have a hiding-place
+<pb n="8" facs="tcp:206164:5"/>in the hour of Temptation, and within the Munition of Rocks all are to come to hide, and to be hid, in the day of ſtorms, for without it there is no ſafety; and ſo bleſſed are all they who know this ſure Habitation, when the overflowing ſcourge cometh upon the un<g ref="char:EOLhyphen"/>godly; for verily I do declare in the Power of the Lord God, That an <hi>Overflowing Scourge is coming near,</hi> and what in the Eternal Power of the Lord God I have ſeen, I do declare; and he that hath an ear to hear, let him hear; for verily the day is at hand, that the Lord God will pour out his wrath without <hi>mixture;</hi> and no man ſhall be able to deliver his Brother in that day; And this is ſent for a <hi>Meſſage</hi> and a <hi>Warning,</hi> to go through this <hi>Nation</hi> for a <hi>Warning,</hi> and for a <hi>Viſitation</hi> unto this preſent Age and Generation with ſpeed, and of neceſſity, from the Command of the Lord God.</p>
+            <closer>
+               <dateline>Given forth, <date>the 18th <hi>day</hi> of the <hi>twelfth Month,</hi> 1660.</date>
+               </dateline>
+               <signed>
+                  <hi>By the flowings in of the full Streams of Life.</hi> D. W.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at the ſign of the <hi>Black<g ref="char:EOLhyphen"/>ſpread-Eagle</hi> and <hi>Windmil,</hi> in <hi>Martins Le Grand.</hi>
+            </p>
+            <pb facs="tcp:206164:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
